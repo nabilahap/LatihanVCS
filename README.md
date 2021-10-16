@@ -54,3 +54,6 @@ Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/downloa
 - Selesai
 
 # TERIMA KASIH
+![minho tidak tau jika tugas nya kali ini harus…](https://user-images.githubusercontent.com/92380488/137579891-d9e8aa2c-911c-4752-9b4c-1030ed8914fe.gif)
+
+
