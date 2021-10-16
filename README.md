@@ -14,7 +14,7 @@ Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/downloa
 - Setelah itu, buat direktory project pertama 
 > $ mkdir latihanNblh
 
-> cd latihanNblh
+> $ cd latihanNblh
 
 ![A2](https://user-images.githubusercontent.com/92380488/137577331-67a50be9-f8c7-4682-8198-6ea01b187735.JPG)
 
