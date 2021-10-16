@@ -18,4 +18,27 @@ Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/downloa
 
 ![A2](https://user-images.githubusercontent.com/92380488/137577331-67a50be9-f8c7-4682-8198-6ea01b187735.JPG)
 
-- Kemudian jalankan perintah git init, 
+- Kemudian jalankan perintah git init< untuk membuat repository local
+> $ git init
+
+![A3](https://user-images.githubusercontent.com/92380488/137577808-c512c23d-74e5-4cbb-8cb5-77fcc2b91421.JPG)
+
+- Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada repository. Disini saya membuat contoh satu file bernama README.md
+> $ echo "# latihanNblh" >> README.md
+
+![A4](https://user-images.githubusercontent.com/92380488/137578108-c509b621-9910-46dc-9d7b-e612e81eca53.JPG)
+
+- Kemudian, untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah **git add**.
+> $ git add README.md
+
+![A5](https://user-images.githubusercontent.com/92380488/137578195-564b1554-d0a8-41d4-be32-c59f796d35a7.JPG)
+
+- Setelah itu, untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah
+> $ git commit -m "Project Nabilah"
+
+![A6](https://user-images.githubusercontent.com/92380488/137578283-29139fdc-500b-42e0-876c-4422609f8006.JPG)
+
+- Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**
+> $ git remote add origin https://github.com/nabilahap/
+
+
