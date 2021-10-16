@@ -1,4 +1,7 @@
 # latihanNblh
+![Aesthetic intro template _no text_](https://user-images.githubusercontent.com/92380488/137578830-6aa3b88d-097c-4167-8b20-fddf81392725.jpg)
+
+
 # Instalasi Git
 Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/download)
 # Tutorial Penggunaan Git
