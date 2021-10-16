@@ -1,7 +1,5 @@
 # latihanNblh
-![WhatsApp Image 2021-10-16 at 14 57 30](https://user-images.githubusercontent.com/92380488/137579418-6e7446fd-27b2-4036-bf47-b241de2df42c.jpeg)
-
-
+![- 𝟑𝟎 𝐃𝐀𝐘𝐒_ 𝐓𝐑𝐔𝐓𝐇 𝐎𝐑 𝐃𝐀𝐑𝐄_](https://user-images.githubusercontent.com/92380488/137579775-a6b6a033-94b3-4601-b69e-8ca66e762288.gif)
 
 
 # Instalasi Git
