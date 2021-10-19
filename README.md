@@ -15,39 +15,39 @@ Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/downloa
 ![A1](https://user-images.githubusercontent.com/92380488/137577098-7bba163e-ab5f-4d91-917c-c96bd454d2d8.JPG)
 
 - Setelah itu, buat direktory project pertama.
-> $ mkdir latihanNblh
+> mkdir latihanNblh
 
-> $ cd latihanNblh
+> cd latihanNblh
 
 ![A2](https://user-images.githubusercontent.com/92380488/137577331-67a50be9-f8c7-4682-8198-6ea01b187735.JPG)
 
 - Kemudian jalankan perintah git init< untuk membuat repository local.
-> $ git init
+> git init
 
 ![A3](https://user-images.githubusercontent.com/92380488/137577808-c512c23d-74e5-4cbb-8cb5-77fcc2b91421.JPG)
 
 - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada repository. Disini saya membuat contoh satu file bernama README.md.
-> $ echo "# latihanNblh" >> README.md
+> echo "# latihanNblh" >> README.md
 
 ![A4](https://user-images.githubusercontent.com/92380488/137578108-c509b621-9910-46dc-9d7b-e612e81eca53.JPG)
 
 - Kemudian, untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah **git add**.
-> $ git add README.md
+> git add README.md
 
 ![A5](https://user-images.githubusercontent.com/92380488/137578195-564b1554-d0a8-41d4-be32-c59f796d35a7.JPG)
 
 - Setelah itu, untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah **git commit -m "komentar commit"**.
-> $ git commit -m "Project Nabilah"
+> git commit -m "Project Nabilah"
 
 ![A6](https://user-images.githubusercontent.com/92380488/137578283-29139fdc-500b-42e0-876c-4422609f8006.JPG)
 
 - Untuk menambahkan remote repository server, gunakan perintah **git remote add origin [url]**.
-> $ git remote add origin https://github.com/nabilahap/LatihanVCS-3.git
+> git remote add origin https://github.com/nabilahap/LatihanVCS-3.git
 
 ![A7](https://user-images.githubusercontent.com/92380488/137578446-cb64a92b-1a05-4e79-8fd9-597af0bd365b.JPG)
 
 - Kemudian, untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
-> $ git push -u origin master
+> git push -u origin master
 
 ![A8](https://user-images.githubusercontent.com/92380488/137578561-2c9249ac-09e6-410d-a660-85433a71628c.JPG)
 
