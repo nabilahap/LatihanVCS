@@ -7,9 +7,9 @@ Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/downloa
 # Tutorial Penggunaan Git
 - Pada saat pertama kali mnggunakan git, peru dilakukan konfigurasi user.name dan user.email.
 - Config Global Repository
-> $ git config --global user.name "nama_user"
+> git config --global user.name "nama_user"
 
-> $ git config --global user.email "nama_user"
+> git config --global user.email "nama_user"
 
 
 ![A1](https://user-images.githubusercontent.com/92380488/137577098-7bba163e-ab5f-4d91-917c-c96bd454d2d8.JPG)
