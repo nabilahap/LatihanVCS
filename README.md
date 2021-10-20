@@ -54,7 +54,7 @@ Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/downloa
 
 - Selesai
 
-# TERIMA KASIH
+## TERIMA KASIH
 
 
 
