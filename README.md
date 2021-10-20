@@ -13,7 +13,7 @@ Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/downloa
 > git config --global user.email "nama_user"
 
 
-![Gambar 1](ss/JJa.JPG)
+![Gambar 1](ss/SS1.JPG)
 - Setelah itu, buat direktory project pertama.
 > mkdir latihanNblh
 
