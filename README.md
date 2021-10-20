@@ -1,8 +1,7 @@
 # latihanNblh
 
-<p align="center">
 ![- 𝟑𝟎 𝐃𝐀𝐘𝐒_ 𝐓𝐑𝐔𝐓𝐇 𝐎𝐑 𝐃𝐀𝐑𝐄_](https://user-images.githubusercontent.com/92380488/137579775-a6b6a033-94b3-4601-b69e-8ca66e762288.gif)
-</p>
+
 
 # Instalasi Git
 Download git terlebih dahulu, di website resmi [Git](https://git-scm.com/download)
